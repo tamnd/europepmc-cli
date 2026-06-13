@@ -1,0 +1,10 @@
+title       = "epmc"
+baseURL     = "https://europepmc-cli.tamnd.com/"
+description = "Search Europe PMC life sciences literature"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/europepmc-cli"
